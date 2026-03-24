@@ -27,3 +27,8 @@ This project allows basic library operations such as managing books and users.
 ## Notes
 - Developed as a team academic project
 - This is a basic project for learning PHP and MySQL
+
+## Screenshots
+![1](screenshots/1.png)
+![2](screenshots/2.png)
+![3](screenshots/3.png)
