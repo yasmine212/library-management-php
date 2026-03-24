@@ -29,6 +29,7 @@ This project allows basic library operations such as managing books and users.
 - This is a basic project for learning PHP and MySQL
 
 ## Screenshots
+
 ![1](screenshots/home.png)
 ![2](screenshots/2.png)
 ![3](screenshots/3.png)
